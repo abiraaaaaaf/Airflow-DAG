@@ -8,4 +8,4 @@
    - T4. Load the local model and read the downloaded prediction CSV and save a csv with prediction of Species for each input row in prediction.csv.
 
 
-![DAG](https://user-images.githubusercontent.com/38458092/122529505-ceb76600-d032-11eb-84ba-7230f376b48b.JPG)
+                    ![DAG](https://user-images.githubusercontent.com/38458092/122529505-ceb76600-d032-11eb-84ba-7230f376b48b.JPG)
